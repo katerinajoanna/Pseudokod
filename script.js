@@ -1,7 +1,10 @@
 // G-Version - Split the Nota
 // Skriv din pseudokod innanför nedanstående kommentarsblock
 /*
-
+Fumktion dela räkningen(summa, antal vänner, dricks)
+    Set variabel summa_med_tips = summa * (1 + dricks)
+    summa_per_person = summa_med_tips / antal_vänner
+    returnera summa_per_person
 
 */
 
